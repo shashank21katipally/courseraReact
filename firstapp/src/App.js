@@ -13,7 +13,8 @@ import Heading from "./Heading";
 function App() {
   return (
     <div className="App">
-      <Heading />
+      <Heading firstName="Ballukam"/>
+      <Heading firstName="Bob"/>
     </div>
   );
 }
